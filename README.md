@@ -11,6 +11,8 @@ Sou formando em engenharia civil, e conheci esse mundo de programação através
  <br/> :arrow_right: JAVASCRIPT
  <br/> :arrow_right: NODE.JS
  <br/> :arrow_right: REACTJS
+ 
+ ### :computer: PROJETOS
 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games  e seriados no Netflix
  
