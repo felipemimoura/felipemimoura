@@ -13,7 +13,7 @@ Sou formando em engenharia civil, e conheci esse mundo de programação através
  <br/> :arrow_right: REACTJS
  
  ### :computer: PROJETOS
- - [Currículo](https://github.com/felipemimoura/programadorBR/tree/master/htmlBasico/desafio)
+ - [Currículo](https://github.com/felipemimoura/programadorBR/tree/master/htmlBasicoDesafio)
 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games  e seriados no Netflix
  
