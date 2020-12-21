@@ -14,6 +14,8 @@ Sou formando em engenharia civil, e conheci esse mundo de programação através
  
  ### :computer: PROJETOS
  - [Currículo](https://github.com/felipemimoura/programadorBR/tree/master/htmlBasicoDesafio)
+ - [Pagina de Captura](https://github.com/felipemimoura/programadorBR/tree/master/projeto-pagina-captura)
+ - [Churrascometro](https://github.com/felipemimoura/programadorBR/tree/master/churrascometro)
 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games  e seriados no Netflix
  
