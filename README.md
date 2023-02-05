@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Felipe Moura!</h1><br/>
 
 - 🔭 Desenvolvedor Web FullStack 
-- 🌱 Estudanto Javascript (React, NodeJS) 
+- 🌱 Estudanto Javascript (React, NodeJS, VUEJS, NextJS, NestJS) 
 - 📫 Contate me no email: felipemimoura@gmail.com
 <br>
 
